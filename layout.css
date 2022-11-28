@@ -1,0 +1,31 @@
+div#head {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 40px;
+}
+div#body {
+    text-align: center;
+    background-color: rgb(209, 209, 9);
+    color: rgb(36, 39, 37);
+    padding: 90px;
+    font-size: 180%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div#footer {
+background-color: black;
+color: aliceblue;
+text-align: center;
+
+padding: 30px;
+
+}
+div#photo {
+    float: left;
+    padding: 70px;
+
+}
+span#comp{
+    text-decoration: wavy;
+    color: rgb(10, 172, 45);
+}
