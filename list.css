@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: azure;
+}
+ul.lang{
+list-style-type: circle;
+
+}
+ul#menu li{
+    display: inline;
+    
+}
+ul#menu li a{
+    background-color: green;
+    color: aliceblue;
+    padding: 20px 20px;
+    text-decoration: solid;
+    text-align: center;
+    
+}
+ul#menu li a:hover{
+    background-color: brown;
+    
+}
+div#first {
+    background-color: aquamarine;
+    padding: 20px;
+
+}
+span.ross{
+    text-decoration: line-through;
+    color: greenyellow;
+}
